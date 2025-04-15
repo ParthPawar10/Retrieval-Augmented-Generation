@@ -1,6 +1,7 @@
 # Simple Local RAG Tutorial
 
-This project demonstrates how to build a **Retrieval Augmented Generation (RAG)** pipeline locally to query documents (e.g., a PDF nutrition textbook) and generate responses using a **Large Language Model (LLM)**. The pipeline retrieves relevant information from document chunks and generates answers based on those passages, all running locally on your own hardware.
+This project demonstrates how to build a **Retrieval Augmented Generation (RAG)** pipeline locally to query documents (e.g., a PDF nutrition textbook) and generate responses using a **Large Language Model (LLM)**.
+The pipeline retrieves relevant information from document chunks and generates answers based on those passages, all running locally on your own hardware.
 
 ## Overview
 
